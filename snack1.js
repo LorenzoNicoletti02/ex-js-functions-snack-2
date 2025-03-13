@@ -5,7 +5,13 @@ function Somma(x, y) {
 console.log(Somma(5, 3));
 
 // Milestone 2
-let Addizione = function (a, b) {
+let Somma2 = function (a, b) {
   return a + b;
 };
-console.log(Addizione(6, 4));
+console.log(Somma2(6, 4));
+
+// Milestone 3
+const Somma3 = (c, d) => {
+  return c + d;
+};
+console.log(Somma3(2, 2));
